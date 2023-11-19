@@ -108,6 +108,38 @@ TRANSITION:
 	31 31 ~ ~ LEFT
 	32 32 ~ ~ LEFT
 	33 33 ~ ~ LEFT
+	2 34 1 x RIGHT
+	3 34 2 x RIGHT
+	4 34 3 x RIGHT
+	5 34 4 x RIGHT
+	6 34 5 x RIGHT
+	7 34 6 x RIGHT
+	8 34 7 x RIGHT
+	9 34 8 x RIGHT
+	10 34 9 x RIGHT
+	11 34 a x RIGHT
+	12 34 b x RIGHT
+	13 34 c x RIGHT
+	14 34 d x RIGHT
+	15 34 e x RIGHT
+	16 34 f x RIGHT
+	17 34 g x RIGHT
+	18 34 h x RIGHT
+	19 34 i x RIGHT
+	20 34 j x RIGHT
+	21 34 k x RIGHT
+	22 34 l x RIGHT
+	23 34 m x RIGHT
+	24 34 n x RIGHT
+	25 34 o x RIGHT
+	26 34 p x RIGHT
+	27 34 q x RIGHT
+	28 34 r x RIGHT
+	29 34 s x RIGHT
+	30 34 t x RIGHT
+	31 34 u x RIGHT
+	32 34 v x RIGHT
+	33 34 w x RIGHT
 
 // Tape format: tapeChar(0) tapeChar(1) ... tapeChar(n)
 TAPE:
